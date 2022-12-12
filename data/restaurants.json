@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Vladimir",
+    "address": "bul. Vidoe Smilevski Bato 89/1-22",
+    "cuisine": "Italian",
+    "website": "https://equilibrium.mk",
+    "description": "This is something new.",
+    "id": "5fdafaf6-a1b5-4690-8a8a-866850c2ebbc"
+  },
+  {
+    "name": "Dime",
+    "address": "bul. Vidoe Smilevski Bato 89/1-22",
+    "cuisine": "Macedonian",
+    "website": "https://studio5.mk",
+    "description": "This is something new.",
+    "id": "0fa19e62-fd36-49bc-ae6d-cef38e63109d"
+  },
+  {
+    "name": "Goki",
+    "address": "bul. Vidoe Smilevski Bato 89/1-22",
+    "cuisine": "Macedonian",
+    "website": "https://equilibrium.mk",
+    "description": "this is something new.",
+    "id": "b573f819-5cea-42f3-87bb-cc65e8162543"
+  },
+  {
+    "name": "Viko",
+    "address": "bul. Vidoe Smilevski Bato 89/1-22",
+    "cuisine": "Italian",
+    "website": "https://studio5.mk",
+    "description": "This is something new.",
+    "id": "2985f191-32d3-4bd9-ba34-7fca309c2a0b"
+  }
+]
